@@ -1,0 +1,9 @@
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frmStaff.resources
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\WCF\QuanLyQuanCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb

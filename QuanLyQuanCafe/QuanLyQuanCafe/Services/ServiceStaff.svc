@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="QuanLyQuanCafe.Services.ServiceStaff" CodeBehind="ServiceStaff.svc.cs" %>
